@@ -33,10 +33,7 @@
 </p>
 </div>
 
-![Snake animation](https://github.com/jojodias28/jojodias28/blob/output/github-contribution-grid-snake.svg)
-
-
-
+!(https://github.com/jojodias28/jojodias28/blob/output/github-contribution-grid-snake.svg)
 
 
   
