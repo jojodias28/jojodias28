@@ -1,8 +1,12 @@
-## <p align="center"> 👋 Hi! I'm Joana Dias</p>
+## <p align="center"> 👋 Hello word! I'm Joana Dias! 🌎</p>
 
 
 
-<p align="center"> 🌱 I’m currently learning web development on Labenu</p>
+<p align="center"> 💻 Front-End Developer </p>
+<p align="center"> 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
+<p align="center"> 🌱 I’m currently learning web development on Labenu. </p>
+<p align="center"> 📘 I’m a student of Systems Analysis and Development on Estácio. </p>
+
 
 
 
