@@ -2,9 +2,9 @@
 
 
 
-<p align="center"> 💻 Front-End Developer </p>
+<p align="center"> 💻 Full Stack Developer </p>
 <p align="center"> 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
-<p align="center"> 🌱 I’m currently learning Full Stack Development on Let's Code. </p>
+<p align="center"> 👩🏽‍💻 I’m a Dev Intern Node at IBM. </p>
 <p align="center"> 📘 I’m a student of Systems Analysis and Development on Estácio. </p>
 
 
@@ -25,7 +25,7 @@
 <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </p>  
 </div>
 
