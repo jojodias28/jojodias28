@@ -5,7 +5,7 @@
 <p align="center"> 💻 Full Stack Developer </p>
 <p align="center"> 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
 <p align="center"> 👩🏽‍💻 Dev Intern Java at IBM. </p>
-<p align="center"> 📘 I’m a student of Systems Analysis and Development on Estácio. </p>
+<p align="center"> 📘 I’m a student of Systems Analysis and Development on Uninter. </p>
 
 
 
