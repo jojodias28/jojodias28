@@ -1,4 +1,4 @@
-## <p align="center"> 👋 Hello word! I'm Joana Dias! 🌎</p>
+## <p align="center"> 👋 Hello world! I'm Joana Dias! 🌎</p>
 
 
 
